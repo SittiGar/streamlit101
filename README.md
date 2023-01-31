@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# streamlit101
 
-Description of the app ...
+Learn to streamlit
 
 ## Demo App
 
